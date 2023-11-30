@@ -76,7 +76,7 @@ const AskExpert = () => {
               Ask an expert
             </Typography>
             <Typography variant={"h6"} component={"p"} color={"black"}>
-              Lorem ipsum dolor sit amet,
+              Stock Investment Tips for Beginners
               <br />
               consectetur adipiscing elit. Id ultricies sed ultricies fringilla
               commodo.
